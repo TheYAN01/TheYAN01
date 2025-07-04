@@ -55,17 +55,10 @@
   <img src="https://streak-stats.demolab.com?user=TheYAN01&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
 
-###
 
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheYAN01/TheYAN01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheYAN01/TheYAN01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheYAN01/TheYAN01/output/pacman-contribution-graph.svg">
-</picture>
 <img src="https://raw.githubusercontent.com/TheYAN01/TheYAN01/output/snake.svg" alt="Snake animation" />
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheYAN01/TheYAN01/output/pacman-contribution-graph-dark.svg">
